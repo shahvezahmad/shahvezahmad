@@ -86,9 +86,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
