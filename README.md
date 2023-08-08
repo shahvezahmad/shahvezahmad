@@ -106,12 +106,8 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahvezahmad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahvezahmad&hide_border=true&layout=compact" align="center" /></div>  
+## Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shahvezahmad&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
 
 <br/>  
 
