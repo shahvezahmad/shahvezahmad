@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="shahvez.png" align="left" style="width: 100%" />  
+<div align="right">
+<img src="shahvez.png" width="100%" height="100%" style="position:absolute" />
+</div>  
   
-<br/>
 
+### <div align="center">Hiiii there!!</div>   
 
-<br/>
-
-
-### <div align="center">I am Shahvez, specialized in building exceptional digital experiences.</div>  
-  
 
 -  👀 Check out my [Portfolio](https;//shahvez.netlify.app)  
   
