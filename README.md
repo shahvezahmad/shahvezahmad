@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **shahvezahmad/shahvezahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="shahvez.png" align="left" style="width: 100%" />  
   
+<br/>
 
 ### <div align="center">I am Shahvez, specialized in building exceptional digital experiences.</div>  
   
