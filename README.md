@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <img src="shahvez.png" align="left" style="width: 100%" />  
   
 <br/>
+
+
 <br/>
+
 
 ### <div align="center">I am Shahvez, specialized in building exceptional digital experiences.</div>  
   
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
