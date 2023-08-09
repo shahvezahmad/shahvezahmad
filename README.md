@@ -103,9 +103,11 @@
 
 <br/> 
 
-
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shahvezahmad&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
 
+<div/>
 
 <br/>  
 
