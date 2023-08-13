@@ -9,7 +9,7 @@
 <br/>
 
 
--  👀 Check out my [Portfolio](https;//shahvez.netlify.app)  
+-  👀 Check out my [Portfolio](https://shahvez.netlify.app)  
   
 
 - 🎓I’m currently learning NextJS, TypeScript & Devops  
