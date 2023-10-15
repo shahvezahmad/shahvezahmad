@@ -1,11 +1,10 @@
 
-<div align="right">
+
 <img src="shahvezahmad.png" width="100%" height="100%" style="position:absolute" />
 
-<h3 align="center" >Focused on interfaces and experience, a recent graduate based in India <h3/>
+<h3 align="center">Focused on interfaces and experience, a recent graduate based in India <h3/>
 
-</div>  
-  
+<br/>
 
 -  👀 Check out my [Portfolio](https://shahvez.netlify.app)  
   
