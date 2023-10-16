@@ -64,6 +64,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Amazon_AWS-282C34?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=white" alt="AWS logo" title="AWS" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## Connect with me
 
