@@ -9,7 +9,7 @@
 -  👀 Check out my [Portfolio](https://shahvez.netlify.app)  
   
 
-- 🎓I’m currently learning Typescript, AWS Amplify & Flutter 
+- 🎓I’m currently learning Typescript and System design
   
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
